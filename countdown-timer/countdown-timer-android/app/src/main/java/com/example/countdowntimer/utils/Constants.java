@@ -6,10 +6,10 @@ package com.example.countdowntimer.utils;
 public class Constants {
     
     // API 配置
-    public static final String API_BASE_URL = "http://10.0.2.2:8000/"; // Android 模拟器访问本机
+    public static final String API_BASE_URL = "http://10.0.2.2:8000/";
     // public static final String API_BASE_URL = "http://192.168.1.x:8000/"; // 替换为你的服务器 IP
     public static final int API_TIMEOUT = 30; // 秒
-    
+    ·
     // 数据库
     public static final String DB_NAME = "countdown_db";
     public static final int DB_VERSION = 1;
