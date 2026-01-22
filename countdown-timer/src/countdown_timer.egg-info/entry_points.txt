@@ -1,0 +1,2 @@
+[console_scripts]
+countdown = countdown_timer.cli:cli

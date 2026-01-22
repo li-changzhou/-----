@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主色系 -->
+    <color name="primary">#3B82F6</color>
+    <color name="primary_dark">#2563EB</color>
+    <color name="secondary">#8B5CF6</color>
+    
+    <!-- 状态颜色 -->
+    <color name="status_active">#10B981</color>
+    <color name="status_current">#F59E0B</color>
+    <color name="status_expired">#EF4444</color>
+    
+    <!-- 基础颜色 -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_light">#F3F4F6</color>
+    <color name="gray_medium">#E5E7EB</color>
+    <color name="gray_dark">#6B7280</color>
+    <color name="text_primary">#1F2937</color>
+    <color name="text_secondary">#6B7280</color>
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Event Countdown</string>
+    <string name="app_description">事件倒计时工具</string>
+    
+    <!-- 导航标签 -->
+    <string name="nav_events">事件列表</string>
+    <string name="nav_add">新建事件</string>
+    <string name="nav_stats">统计信息</string>
+    
+    <!-- 按钮文本 -->
+    <string name="btn_save">保存</string>
+    <string name="btn_cancel">取消</string>
+    <string name="btn_delete">删除</string>
+    <string name="btn_edit">编辑</string>
+    <string name="btn_add">新建事件</string>
+    <string name="btn_refresh">刷新</string>
+    <string name="btn_sync">同步</string>
+    
+    <!-- 标签 -->
+    <string name="label_event_name">事件名称</string>
+    <string name="label_event_date">事件日期</string>
+    <string name="label_search">搜索事件</string>
+    
+    <!-- 提示信息 -->
+    <string name="hint_event_name">例如：生日、毕业、旅行</string>
+    <string name="hint_event_date">点击选择日期</string>
+    
+    <!-- 错误消息 -->
+    <string name="error_network">网络错误</string>
+    <string name="error_empty_name">请输入事件名称</string>
+    <string name="error_empty_date">请选择事件日期</string>
+    <string name="error_invalid_date">无效的日期格式</string>
+    
+    <!-- 成功消息 -->
+    <string name="success_event_created">事件已创建</string>
+    <string name="success_event_updated">事件已更新</string>
+    <string name="success_event_deleted">事件已删除</string>
+    
+    <!-- 统计信息 -->
+    <string name="stat_total_events">总事件数</string>
+    <string name="stat_active_events">进行中</string>
+    <string name="stat_expired_events">已过期</string>
+    <string name="stat_next_event">下一个事件</string>
+    
+    <!-- 其他 -->
+    <string name="empty_state">暂无任何事件\n点击"新建事件"来添加你的第一个倒计时</string>
+    <string name="loading">加载中...</string>
+    <string name="confirm_delete">确定要删除这个事件吗？</string>
+</resources>
